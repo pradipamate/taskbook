@@ -28,4 +28,4 @@ code {
 .table th{position:relative}
 .table th::after {position: absolute;content: "\f0dc";font-family: FontAwesome;bottom: 8px;right: 8px;cursor:pointer}
 .table th:last-child::after{display:none}
-.Title{cursor:pointer}
+.Title{cursor:pointer;color:#ec5959}
